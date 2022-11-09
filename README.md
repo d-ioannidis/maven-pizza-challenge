@@ -25,6 +25,7 @@ part of the challenge.
 Technologies used:
 
 * Base Python 
+* Jupyter Notebook
 * NumPy
 * Pandas
 * Power BI
