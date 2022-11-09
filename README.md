@@ -32,5 +32,5 @@ Technologies used:
 The Power BI dashboard can be viewed through this link:
 https://community.powerbi.com/t5/Data-Stories-Gallery/Maven-Pizza-Challenge/m-p/2854624
 
-*__Note:__ Initial experimentations included the usage of Plotly and/or Matplotlib before resorting
+*__Note:__* Initial experimentations included the usage of Plotly and/or Matplotlib before resorting
 to the use of Power BI for the final visualization process.
