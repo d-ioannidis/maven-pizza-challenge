@@ -7,12 +7,12 @@ final objective. The final product is a separate interactive Power BI dashboard.
 
 The dataset in total includes 4 tables
 
-* The Orders table contains the date & time that all table orders were placed. 
-* The Order Details table contains the different pizzas served with each order in 
+* The **Orders** table contains the date & time that all table orders were placed. 
+* The **Order Details** table contains the different pizzas served with each order in 
   the Orders table, and their quantities.
-* The Pizzas table contains the size and price for each distinct pizza in the Order Details 
+* The **Pizzas** table contains the size and price for each distinct pizza in the Order Details 
   table, as well as its broader pizza type.
-* The Pizza Types table contains details on the pizza types in the Pizzas table, including their 
+* The **Pizza Types** table contains details on the pizza types in the Pizzas table, including their 
   name as it appears on the menu, 
   the category it falls under, and its list of ingredients.
   
@@ -32,5 +32,5 @@ Technologies used:
 The Power BI dashboard can be viewed through this link:
 https://community.powerbi.com/t5/Data-Stories-Gallery/Maven-Pizza-Challenge/m-p/2854624
 
-Note: Initial experimentations included the usage of Plotly and/or Matplotlib before resorting
+***Note:** Initial experimentations included the usage of Plotly and/or Matplotlib before resorting
 to the use of Power BI for the final visualization process.
